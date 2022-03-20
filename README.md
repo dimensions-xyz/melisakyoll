@@ -1,5 +1,4 @@
 <h1 align="center">Merhaba 👋, ben Melisa</h1>
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştirici</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=melisakyoll&label=Profile%20views&color=0e75b6&style=flat" alt="melisakyoll" /> </p>
 
