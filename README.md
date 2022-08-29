@@ -17,8 +17,8 @@
 🌟 Main languages: Dart, Java
 </pre>
 
-
-<hr>
+<br>
+<br>
 
 <h3>📱 Contact me</h3>
 <br>	
