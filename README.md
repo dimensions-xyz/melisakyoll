@@ -10,11 +10,13 @@
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200'>
 
 <pre>
+
 💻 I am a Flutter Developer
 📚 I have a Bachelors in Computer Technology and Information Systems
 📝 I have interest in mobile application with java
 🔭 I'm working on a mobile app with flutter
 🌟 Main languages: Dart, Java
+
 </pre>
 
 <br>
