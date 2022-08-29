@@ -2,9 +2,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Melisa!;I'm+a+Flutter+Developer..."><img/>
 </div>
 
-##
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
-<hr>
+
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200'>
 
 <pre>
 💻 I am a Flutter Developer
@@ -13,7 +12,7 @@
 🔭 I'm working on a mobile app with flutter
 🌟 Main languages: Dart, Java
 </pre>
-<hr>
+
 
 <h3>📱 Contact me</h3>
 <br>	
