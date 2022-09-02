@@ -13,9 +13,9 @@
 
 💻 I am a Flutter Developer
 📚 I have a Bachelors in Computer Technology and Information Systems
-📝 I have interest in mobile application with java
+📝 I have interest in mobile application with Kotlin
 🔭 I'm working on a mobile app with flutter
-🌟 Main languages: Dart, Java
+🌟 Main languages: Dart
 
 </pre>
 
